@@ -8,7 +8,7 @@ public class Widget {
 	private boolean enabled;
 
 	/**
-	 * Create new enabled widget.
+	 * Create new enabled widget
 	 */
 	public Widget() {
 		enabled = true;
